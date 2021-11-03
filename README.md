@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/80cf40cdc05bed2e2f41e.jpg" alt="GURA BASE" width="300" />
+<img src="https://telegra.ph/BoTChM-11-03.jpg" alt="GURA BASE" width="300" />
 
 # GURA WANGY
 
